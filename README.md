@@ -25,4 +25,4 @@ I based this oscillator model on All About Electronics' Exponential VCO article.
 
 **Version 1.0**
 The initial version.
-<img src="./DualShapeOscillator 1.0.svg">
+<img src="./DualShapeOscillator v1.0.svg">
