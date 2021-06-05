@@ -1,4 +1,4 @@
-# Random Triggers
+# Dual Shape Oscillator
 by Benjie Jiao
 
 I based this oscillator model on All About Electronics' Exponential VCO article. I removed the exponential converter section and added some additional features.
