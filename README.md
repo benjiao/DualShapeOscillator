@@ -11,7 +11,13 @@ I based this oscillator model on All About Electronics' Exponential VCO article.
 
 ### Output
 
-*Audio Out* - An audio signal. 
+*Audio Out* - An audio signal. Can be a triangle wave, square wave, or a blend of the two.
+
+<img src="./Images/Scope - Triangle.png">
+
+<img src="./Images/Scope - Square.png">
+
+<img src="./Images/Scope - Blend.png">
 
 ### Controls
 
