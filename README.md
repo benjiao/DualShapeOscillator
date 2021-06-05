@@ -20,3 +20,9 @@ I based this oscillator model on All About Electronics' Exponential VCO article.
 *Shape* - Controls the amount of square wave blended into the output signal. 
 
 *CV2 Trim* - Controls how much of CV2 is added into CV1. This can be used to make modulation signals more subtle.
+
+## Version History
+
+**Version 1.0**
+The initial version.
+<img src="./DualShapeOscillator 1.0.svg">

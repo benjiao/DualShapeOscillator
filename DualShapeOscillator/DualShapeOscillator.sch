@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Dual Shape Oscillator by Benjie Jiao"
-Date ""
-Rev ""
+Date "2021-06-05"
+Rev "v1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
