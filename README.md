@@ -11,7 +11,7 @@ I based this oscillator model on All About Electronics' Exponential VCO article.
 
 ### Output
 
-*Audio Out* - An audio signal. Can be a triangle wave, square wave, or a blend of the two.
+*Audio Out* - An audio signal. Can be a triangle wave, square wave, or a blend of the two. Levels of each wave type is controlled by the Triangle and Square knobs.
 
 <img src="./Images/Scope - Triangle.png">
 
@@ -23,7 +23,7 @@ I based this oscillator model on All About Electronics' Exponential VCO article.
 
 *Triangle* - Controls the amount of triangle wave blended into the output signal.
 
-*Shape* - Controls the amount of square wave blended into the output signal. 
+*Square* - Controls the amount of square wave blended into the output signal. 
 
 *CV2 Trim* - Controls how much of CV2 is added into CV1. This can be used to make modulation signals more subtle.
 
